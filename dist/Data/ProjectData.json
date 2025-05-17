@@ -1,0 +1,397 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "Full-stack e-commerce solution...",
+    "imageUrl": "/images/ecommerce.jpg",
+    "tags": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "projectUrl": "https://example.com",
+    "codeUrl": "https://github.com/example",
+    "features": [
+      "Product catalog with filters",
+      "Shopping cart system",
+      "Payment gateway integration"
+    ],
+    "technologies": [
+      "Frontend: React + TypeScript",
+      "Backend: Node.js + Express",
+      "Database: MongoDB Atlas"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Task Management Platform",
+    "description": "Collaborative task management system with real-time updates and team features",
+    "imageUrl": "/images/task-management.jpg",
+    "tags": [
+      "React",
+      "Node.js",
+      "WebSockets",
+      "JWT"
+    ],
+    "projectUrl": "https://taskmanager.demo.com",
+    "codeUrl": "https://github.com/example/task-manager",
+    "features": [
+      "Real-time task synchronization",
+      "Role-based access control",
+      "Activity history tracking",
+      "Email notifications"
+    ],
+    "technologies": [
+      "Frontend: React + Redux Toolkit",
+      "Backend: Node.js + Express",
+      "Real-time: Socket.IO",
+      "Database: PostgreSQL"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "AI-Powered Chat Assistant",
+    "description": "Conversational AI interface with natural language processing capabilities",
+    "imageUrl": "/images/ai-chat.jpg",
+    "tags": [
+      "Python",
+      "TensorFlow",
+      "React",
+      "NLP"
+    ],
+    "projectUrl": "https://aichat.demo.com",
+    "codeUrl": "https://github.com/example/ai-chat",
+    "features": [
+      "Context-aware conversations",
+      "Sentiment analysis",
+      "Multi-language support",
+      "Conversation history"
+    ],
+    "technologies": [
+      "ML Framework: TensorFlow 2.0",
+      "NLP: spaCy + NLTK",
+      "Frontend: React + TypeScript",
+      "API: FastAPI"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Healthcare Management System",
+    "description": "HIPAA-compliant patient record management platform",
+    "imageUrl": "/images/healthcare-system.jpg",
+    "tags": [
+      "Java",
+      "Spring Boot",
+      "HL7",
+      "AWS"
+    ],
+    "projectUrl": "https://health.demo.com",
+    "codeUrl": "https://github.com/example/healthcare-system",
+    "features": [
+      "Electronic Health Records (EHR)",
+      "Appointment scheduling",
+      "Telemedicine integration",
+      "Analytics dashboard"
+    ],
+    "technologies": [
+      "Backend: Spring Boot + Hibernate",
+      "Frontend: Angular Material",
+      "Security: OAuth2 + JWT",
+      "Cloud: AWS ECS"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Blockchain Supply Chain",
+    "description": "Decentralized supply chain management using blockchain technology",
+    "imageUrl": "/images/blockchain-supplychain.jpg",
+    "tags": [
+      "Solidity",
+      "Ethereum",
+      "React",
+      "Node.js"
+    ],
+    "projectUrl": "https://supplychain.demo.com",
+    "codeUrl": "https://github.com/example/blockchain-supplychain",
+    "features": [
+      "Smart contract integration",
+      "Product provenance tracking",
+      "Decentralized identity management",
+      "Real-time auditing"
+    ],
+    "technologies": [
+      "Blockchain: Ethereum",
+      "Smart Contracts: Solidity",
+      "Frontend: React + Web3.js",
+      "Backend: Node.js + Express"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "IoT Home Automation",
+    "description": "Smart home automation system with cross-device control",
+    "imageUrl": "/images/iot-automation.jpg",
+    "tags": [
+      "Python",
+      "MQTT",
+      "React Native",
+      "AWS IoT"
+    ],
+    "projectUrl": "https://iot.demo.com",
+    "codeUrl": "https://github.com/example/iot-automation",
+    "features": [
+      "Real-time device monitoring",
+      "Voice command integration",
+      "Energy usage analytics",
+      "Automation scenarios"
+    ],
+    "technologies": [
+      "IoT Protocol: MQTT",
+      "Mobile: React Native",
+      "Cloud: AWS IoT Core",
+      "Backend: Django + Redis"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Predictive Maintenance System",
+    "description": "ML-powered equipment failure prediction for manufacturing",
+    "imageUrl": "/images/predictive-maintenance.jpg",
+    "tags": [
+      "Python",
+      "TensorFlow",
+      "IoT",
+      "Time Series"
+    ],
+    "features": [
+      "Anomaly detection",
+      "Remaining useful life estimation",
+      "Dashboard visualization"
+    ],
+    "technologies": [
+      "Framework: PyTorch Lightning",
+      "Data: SQLite + Pandas",
+      "Visualization: Grafana"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Facial Recognition Attendance",
+    "description": "Computer vision-based employee tracking system",
+    "imageUrl": "/images/facial-recognition.jpg",
+    "tags": [
+      "OpenCV",
+      "Python",
+      "React",
+      "FaceNet"
+    ],
+    "features": [
+      "Real-time face detection",
+      "Attendance reports generation",
+      "Multi-factor authentication"
+    ],
+    "technologies": [
+      "ML Model: FaceNet",
+      "Backend: FastAPI",
+      "Frontend: React.js"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Real Estate Marketplace",
+    "description": "Full-stack property listing platform",
+    "imageUrl": "/images/real-estate.jpg",
+    "tags": [
+      "Next.js",
+      "Node.js",
+      "Mapbox",
+      "Stripe"
+    ],
+    "features": [
+      "Property search filters",
+      "Virtual tours integration",
+      "Mortgage calculator"
+    ],
+    "technologies": [
+      "Frontend: Next.js 14",
+      "Mapping: Mapbox GL JS",
+      "Payments: Stripe Connect"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Fitness Tracker App",
+    "description": "Cross-platform workout monitoring application",
+    "imageUrl": "/images/fitness-app.jpg",
+    "tags": [
+      "React Native",
+      "Firebase",
+      "HealthKit",
+      "Expo"
+    ],
+    "features": [
+      "Workout plans generator",
+      "Health data synchronization",
+      "Progress analytics"
+    ],
+    "technologies": [
+      "State Management: Redux Toolkit",
+      "Database: Firestore",
+      "CI/CD: GitHub Actions"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "NFT Marketplace",
+    "description": "Decentralized digital art trading platform",
+    "imageUrl": "/images/nft-marketplace.jpg",
+    "tags": [
+      "Solidity",
+      "IPFS",
+      "React",
+      "Web3.js"
+    ],
+    "features": [
+      "ERC-721 token standard",
+      "Auction system",
+      "Royalty management"
+    ],
+    "technologies": [
+      "Blockchain: Polygon",
+      "Storage: IPFS + Filecoin",
+      "Frontend: Ethers.js"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Smart Agriculture System",
+    "description": "IoT-based crop monitoring solution",
+    "imageUrl": "/images/smart-agriculture.jpg",
+    "tags": [
+      "Raspberry Pi",
+      "LoRaWAN",
+      "Python",
+      "React"
+    ],
+    "features": [
+      "Soil moisture sensing",
+      "Weather prediction integration",
+      "Irrigation automation"
+    ],
+    "technologies": [
+      "Hardware: Arduino",
+      "Protocol: MQTT",
+      "Cloud: AWS IoT Core"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "CI/CD Pipeline Automation",
+    "description": "Enterprise-grade deployment system",
+    "imageUrl": "/images/cicd-pipeline.jpg",
+    "tags": [
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "features": [
+      "Multi-stage deployments",
+      "Automated rollback",
+      "Security scanning"
+    ],
+    "technologies": [
+      "Orchestration: Argo CD",
+      "Containerization: Docker",
+      "Monitoring: Prometheus"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Customer Churn Prediction",
+    "description": "Big data analytics for retention strategies",
+    "imageUrl": "/images/churn-prediction.jpg",
+    "tags": [
+      "PySpark",
+      "Scikit-learn",
+      "Tableau",
+      "Airflow"
+    ],
+    "features": [
+      "Feature engineering",
+      "SHAP value explanations",
+      "Automated reporting"
+    ],
+    "technologies": [
+      "Processing: Databricks",
+      "Orchestration: Apache Airflow",
+      "BI: Tableau"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Vulnerability Scanner",
+    "description": "Automated security assessment tool",
+    "imageUrl": "/images/vulnerability-scanner.jpg",
+    "tags": [
+      "Python",
+      "Nmap",
+      "OWASP",
+      "React"
+    ],
+    "features": [
+      "CVE database integration",
+      "Penetration testing",
+      "Compliance reporting"
+    ],
+    "technologies": [
+      "Framework: Django",
+      "Scanning: OpenVAS",
+      "Frontend: React.js"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Virtual Showroom",
+    "description": "Immersive 3D product visualization",
+    "imageUrl": "/images/virtual-showroom.jpg",
+    "tags": [
+      "Unity",
+      "C#",
+      "WebGL",
+      "Three.js"
+    ],
+    "features": [
+      "360° product views",
+      "AR try-on feature",
+      "Multi-platform support"
+    ],
+    "technologies": [
+      "Engine: Unity 2022",
+      "3D Modeling: Blender",
+      "Web Integration: WebXR"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Algorithmic Trading Platform",
+    "description": "Quantitative trading strategy implementation",
+    "imageUrl": "/images/algo-trading.jpg",
+    "tags": [
+      "Python",
+      "QuantLib",
+      "AWS",
+      "React"
+    ],
+    "features": [
+      "Backtesting engine",
+      "Risk management",
+      "Real-time market data"
+    ],
+    "technologies": [
+      "Data: Bloomberg API",
+      "Compute: AWS Batch",
+      "Visualization: Plotly"
+    ]
+  }
+]
